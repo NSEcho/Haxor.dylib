@@ -8,5 +8,5 @@
 #import <Foundation/Foundation.h>
 
 @interface Haxor : NSObject
-
+-(void)replace;
 @end
